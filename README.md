@@ -42,11 +42,6 @@ Install dependencies:
    Copier le code
    npm install
    Run the development server:
-
-   ```bash
-Copier le code
-ng serve
-Open your browser and navigate to:
-
-Enter
-http://localhost:4200
+   ng serve
+   Open your browser and navigate to:
+   http://localhost:4200
